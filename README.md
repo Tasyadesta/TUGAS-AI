@@ -5,4 +5,5 @@ Identifikasi daun dalam pengenalan tumbuhan ini salah satu project bidang pengem
 
 Kecerdasan Buatan 5E Nama Anggota Kelompok : 
 •	Tasya Desta Febrisa Nuke (201910370311222)
+
 •	Kiki Andarista (201910370311217)
